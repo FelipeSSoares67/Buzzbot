@@ -1,1 +1,1 @@
-O codigo é um chatbot de resposta automaticas ligada a IA Gemini feito em Python
+BozzBot é um bot automatizado que utiliza Selenium, PyAutoGUI e a API do Google Gemini para interagir com usuários no WhatsApp Web, respondendo dúvidas, aplicando testes de conhecimento e sugerindo cursos conforme o desempenho.
