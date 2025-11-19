@@ -1,1 +1,1 @@
-criar o arquivo .env com a chave key
+O codigo é um chatbot de resposta automaticas ligada a IA Gemini feito em Python
